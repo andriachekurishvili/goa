@@ -1,0 +1,1 @@
+print ("is bayng 2 monitors worth good")
